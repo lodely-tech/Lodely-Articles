@@ -6,6 +6,7 @@ Also, including couple of these in the resume wouldn’t hurt!
 
 ## Top Skills Needed For Software Engineer
 This section contains key skills for software developers. These are skills that are acquired right from the start and engineers are expected to have in all work situations.
+
 ![top software engineer skills](https://cdn.prod.website-files.com/666c5f35622b650a0361cef6/66feabd72e356bf25d07dab0_66feabd0690a4f7ca3f09d77_softwareengineeringskills.png)
 
 ### 1. Programming Language Jedi
@@ -46,6 +47,7 @@ When you are building new features or products, you have to isolate it from the 
 
 ### 10. Distributed Systems
 To build scalable systems, it’s important to know how to design distributed systems. I think that even for specific types of engineers that, for example, spend most of their time on the client, would serve greatly to know the fundamental concepts. Because they do come up in interviews, or in situations requiring to talk to the server infrastructure, or thinking through the product behavior. An awesome book, [Designing Data-Intensive Applications](https://www.amazon.com/dp/1449373321?ref=cm_sw_r_mwn_dp_KQ796NFW9FDW9TP2QQK6&ref_=cm_sw_r_mwn_dp_KQ796NFW9FDW9TP2QQK6&social_share=cm_sw_r_mwn_dp_KQ796NFW9FDW9TP2QQK6&language=en-US), comes to mind.
+
 ![Designing Data Intensive Applications](https://cdn.prod.website-files.com/666c5f35622b650a0361cef6/66feac0620cd2565c95f402d_66feabe78e912ab0e34d071f_designingdataintensiveapplications.png)
 
 ### 11. Data Bases and Pipelines
@@ -72,6 +74,7 @@ Simply speaking, experimentation is the process of identifying an audience, prov
 This is one of the more exact-science based tools that brings to light the impact of your product’s changes compared to other approaches. So it’s important to really become familiar with how to setup experiments and interpret them.
 
 Since this falls into Statistics territory. There’s a substantial amount of theory that you need to cover, all available online of course. Some things to look out for: [statistical significance](https://en.m.wikipedia.org/wiki/Statistical_significance), [p values](https://en.m.wikipedia.org/wiki/P-value), [power analysis](https://en.m.wikipedia.org/wiki/Power_(statistics)), [sample sizes](https://en.m.wikipedia.org/wiki/Sample_size_determination), dilution, over/under/imbalanced exposures, exposure logging, holdouts, [backtests](https://en.m.wikipedia.org/wiki/Backtesting), etc.
+
 ![ab test system architecture](https://cdn.prod.website-files.com/666c5f35622b650a0361cef6/66feaae2e264fad54fda02e7_66feaa8d736a5719027ec041_abtest.png)
 
 ### 15. Architecture Design

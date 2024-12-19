@@ -4,6 +4,7 @@ There’s no one way way to write your resume. Each person has their own unique 
 
 You can find Software Engineer Resume Templates [here](https://www.lodely.com/blog/software-engineer-resume-templates-in-word-pdf).
 
+
 In addition, you should follow the general best practices so your resume stands out even more. To help you secure software engineering interviews, I will cover these best practices with the hope that you find it useful.
 
 When writing your resume, there are some things you must always have. Key personal facts, past relevant work experience, education, achievements, list of skills, and contact information. However, before jumping into that, let’s touch on what not to do.
@@ -41,6 +42,7 @@ Best way to see what will work for you is taking a look at great example resumes
 ‍
 
 You can find Software Engineer Resume Templates [here](https://www.lodely.com/blog/software-engineer-resume-templates-in-word-pdf).
+
 
 ### Personal Website
 A resume and personal website is the ultimate combo. With a website you can incorporate that x factor, which can create a positive impression! There’s something about the effort and intentionality put in with having a beautiful interactive personal site.

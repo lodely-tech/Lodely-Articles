@@ -20,3 +20,14 @@ Once you decide on a direction, you can also find helpful information here on
 - “required skills for software engineering”
 
 All to for you steal and put into practice at https://www.lodely.com
+
+## Resources
+
+[https://github.com/Lodely-By-Arlan/Articles/blob/main/behavioral-interview-guide-for-software-engineers.md](https://github.com/Lodely-By-Arlan/Articles/blob/main/behavioral-interview-guide-for-software-engineers.md)
+[https://github.com/Lodely-By-Arlan/Articles/blob/main/19-types-of-software-engineers%3A-entry-level-to-executive.md](https://github.com/Lodely-By-Arlan/Articles/blob/main/19-types-of-software-engineers%3A-entry-level-to-executive.md)
+[https://github.com/Lodely-By-Arlan/Articles/blob/main/how-to-become-a-software-engineer%3A-no-experience%3F-no-problem.md](https://github.com/Lodely-By-Arlan/Articles/blob/main/how-to-become-a-software-engineer%3A-no-experience%3F-no-problem.md)
+[https://github.com/Lodely-By-Arlan/Articles/blob/main/how-to-craft-the-perfect-software-engineering-resume-in-2024.md](https://github.com/Lodely-By-Arlan/Articles/blob/main/how-to-craft-the-perfect-software-engineering-resume-in-2024.md)
+[https://github.com/Lodely-By-Arlan/Articles/blob/main/how-to-get-highest-paying-engineering-jobs-in-2024.md](https://github.com/Lodely-By-Arlan/Articles/blob/main/how-to-get-highest-paying-engineering-jobs-in-2024.md)
+[https://github.com/Lodely-By-Arlan/Articles/blob/main/how-to-pass-software-engineering-interviews-in-big-tech.md](https://github.com/Lodely-By-Arlan/Articles/blob/main/how-to-pass-software-engineering-interviews-in-big-tech.md)
+[https://github.com/Lodely-By-Arlan/Articles/blob/main/is-software-engineering-hard.md](https://github.com/Lodely-By-Arlan/Articles/blob/main/is-software-engineering-hard.md)
+[https://github.com/Lodely-By-Arlan/Articles/blob/main/the-top-22-software-engineer-skills-to-master.md](https://github.com/Lodely-By-Arlan/Articles/blob/main/the-top-22-software-engineer-skills-to-master.md)
